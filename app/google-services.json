@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "528746353156",
+    "firebase_url": "https://craftigrami.firebaseio.com",
+    "project_id": "craftigrami",
+    "storage_bucket": "craftigrami.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528746353156:android:b32f569af0ea06fb",
+        "android_client_info": {
+          "package_name": "id.sch.smktelkom_mlg.learn.harus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528746353156-dkclr0g64mf64e1chkob11d41aff5qmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzIuWVxwrfVc30EXnRU6lm1LqRKjBY0kY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
